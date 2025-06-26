@@ -2,10 +2,10 @@
 # ScreenShots
 
 <p align="center">
-  <img src="https://github.com/OmarAliSaid/android-paypal-example/blob/master/ScreenShots/pic1.jpeg" width="200"/>
-  <img src="https://github.com/OmarAliSaid/android-paypal-example/blob/master/ScreenShots/pic2.jpeg" width="200"/>
-  <img src="https://github.com/OmarAliSaid/android-paypal-example/blob/master/ScreenShots/pic3.jpeg" width="200"/>
-  <img src="https://github.com/OmarAliSaid/android-paypal-example/blob/master/ScreenShots/pic4.jpeg" width="200"/>
+  <img src="https://github.com/ikeuzo57/AndroidPaypal/blob/master/ScreenShots/pic1.jpeg" width="200"/>
+  <img src="https://github.com/ikeuzo57/AndroidPaypal/blob/master/ScreenShots/pic2.jpeg" width="200"/>
+  <img src="https://github.com/ikeuzo57/AndroidPaypal/blob/master/ScreenShots/pic3.jpeg" width="200"/>
+  <img src="https://github.com/ikeuzo57/AndroidPaypal/blob/master/ScreenShots/pic4.jpeg" width="200"/>
 </p>
 
 
@@ -74,13 +74,13 @@ Magic happens on port 5000
 * Android-ActionItemBadge - https://github.com/mikepenz/Android-ActionItemBadge  <br/>
 
 #### Developed By 
-* Omar Ali
-* omarali0252@gmail.com
-* <a href="https://www.paypal.me/OmarAliSaid">paypal.me/OmarAliSaid</a> <br/>
+* Ike
+* ikeuzo57@gmail.com
+* <a href="https://www.paypal.me/Ikechukwu">paypal.me/Ike</a> <br/>
 
 #### License
 ```
-Copyright 2017 Omar Ali
+Copyright 2017 Ikechukwu
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
